@@ -186,19 +186,6 @@ A web application was developed to provide:
 
 ---
 
-## 📸 Screenshots
-
-### Main GUI
-Add your GUI screenshot here.
-
-### Web Interface
-Add your webpage screenshot here.
-
-### Hardware Setup
-Add Raspberry Pi and AI Thinker VC-02 setup images here.
-
----
-
 ## 🔮 Future Enhancements
 
 - Complete sentence-level translation
